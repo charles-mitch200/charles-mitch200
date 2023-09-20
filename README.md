@@ -1,8 +1,8 @@
-<h1 align="center">Hello 👋, I'm Austine </h1>
+<h1 align="center">Hello 👋, I'm Charles </h1>
 <h3 align="center">A passionate Software/ML craftsman from Nairobi, Kenya</h3>
 
 - ```
-  I write scripts, APIs, ML/AI, and LLM models that make life easier (and humans 'lazier')
+  I write scripts, APIs and ML/AI models that make life easier.
   ```
   
 - ```
@@ -10,11 +10,11 @@
   ```
   
 - ```
-  Ask me about APIs, ML, Cross-platfrom Apps & Backend Development using Python, Go , and Dart.
+  Ask me about APIs, ML, Cross-platfrom Apps & Backend Development using Python and Dart.
   ```
   
 - ```
-  Reach me through: ayahaustine@gmail.com
+  Reach me through: charlesreign2@gmail.com
   ```
   
 - 📄 Know about my experience and projects at [https://portfolio-austine.vercel.app](https://portfolio-austine.vercel.app)

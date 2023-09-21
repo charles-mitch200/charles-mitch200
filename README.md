@@ -10,11 +10,11 @@
   ```
   
 - ```
-  Ask me about APIs, ML, Cross-platfrom Apps & Backend Development using Python and Dart.
+  Ask me about APIs, ML, Cross-platfrom Apps & Backend Development using JavaScript, Python and Dart.
   ```
   
 - ```
   Reach me through: charlesreign2@gmail.com
   ```
   
-- 📄 Know about my experience and projects at [https://portfolio-austine.vercel.app](https://portfolio-austine.vercel.app)
+- 📄 Know about my experience and projects at [https://portfolio-charles.vercel.app](https://portfolio-charles.vercel.app)

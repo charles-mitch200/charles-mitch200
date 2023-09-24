@@ -10,7 +10,7 @@
   ```
   
 - ```
-  Ask me about APIs, ML, Data Analysis & Frontend Development using JavaScript, Python, SQL and Excel.
+  Ask me about APIs, ML, Data Analysis (Excel, Python, and SQL) & Frontend Development using JavaScript.
   ```
   
 - ```

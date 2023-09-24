@@ -10,7 +10,7 @@
   ```
   
 - ```
-  Ask me about APIs, ML, Cross-platfrom Apps & Backend Development using JavaScript, Python and Dart.
+  Ask me about APIs, ML, Data Analysis & Frontend Development using JavaScript, Python, SQL and Excel.
   ```
   
 - ```

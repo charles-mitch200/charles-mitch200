@@ -17,4 +17,4 @@
   Reach me through: charlesreign2@gmail.com
   ```
   
-- 📄 Know about my experience and projects at [https://portfolio-charles.vercel.app](https://portfolio-charles.vercel.app)
+- 📄 Know about my experience and projects at [https://my-portfolio-lry3.onrender.com/](https://my-portfolio-lry3.onrender.com/)

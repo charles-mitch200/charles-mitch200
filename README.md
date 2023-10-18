@@ -17,4 +17,4 @@
   Reach me through: charlesreign2@gmail.com
   ```
   
-- 📄 Know about my experience and projects at [https://my-portfolio-lry3.onrender.com/](https://my-portfolio-lry3.onrender.com/)
+- 📄 Know about my experience and projects at [https://charles-mitch200.github.io/Portfolio/](https://charles-mitch200.github.io/Portfolio/)

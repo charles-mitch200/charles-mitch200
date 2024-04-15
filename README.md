@@ -2,11 +2,7 @@
 <h3 align="center">A passionate Software/ML craftsman from Nairobi, Kenya</h3>
 
 - ```
-  I write scripts, APIs and ML/AI models that make life easier.
-  ```
-  
-- ```
-  I develop cross-platform applications i.e Android, IOS, Desktop & Web applications.
+  I write scripts ML/AI models that make life easier.
   ```
   
 - ```

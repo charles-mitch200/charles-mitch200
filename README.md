@@ -6,7 +6,7 @@
   ```
   
 - ```
-  Ask me about APIs, ML, Data Analysis (Excel, Python, and SQL) & Frontend Development using JavaScript.
+  Ask me about ML, Data Analysis (Excel, Python, and SQL) & Frontend Development using JavaScript.
   ```
   
 - ```
